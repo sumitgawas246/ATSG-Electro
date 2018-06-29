@@ -1,0 +1,76 @@
+[
+    {
+        "Link": "#iphonex",
+        "Img": "./assets/image/iphonex.jpg",
+        "Name":"Apple iPhone X",
+        "Price": "$999",
+        "Details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+        "Rating": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+        "Link": "#iphonex",
+        "Img": "./assets/image/samsungs8.jpg",
+        "Name":"Samsung S8",
+        "Price": "$750",
+        "Details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+        "Rating": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+        "Link": "#iphonex",
+        "Img": "./assets/image/googlepixel2.jpg",
+        "Name":"Google Pixel 2",
+        "Price": "$850",
+        "Details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+        "Rating": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+        "Link": "#iphonex",
+        "Img": "./assets/image/acerlaptop.jpg",
+        "Name":"Acer Aqua 120",
+        "Price": "$700",
+        "Details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+        "Rating": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+        "Link": "#iphonex",
+        "Img": "./assets/image/applemacbook.jpg",
+        "Name":"Apple MacBook A6X",
+        "Price": "$1250",
+        "Details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+        "Rating": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+        "Link": "#iphonex",
+        "Img": "./assets/image/hplaptop.jpg",
+        "Name":"HP Envy Core25",
+        "Price": "$770",
+        "Details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+        "Rating": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+        "Link": "#iphonex",
+        "Img": "./assets/image/sonycam.jpg",
+        "Name":"Sony 710",
+        "Price": "$740",
+        "Details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+        "Rating": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+        "Link": "#iphonex",
+        "Img": "./assets/image/nikoncam.jpg",
+        "Name":"Nikon 630M",
+        "Price": "$800",
+        "Details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+        "Rating": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+        "Link": "#iphonex",
+        "Img": "./assets/image/canoncam.jpg",
+        "Name":"Canon 5300X",
+        "Price": "$650",
+        "Details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+        "Rating": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+    }
+
+    
+]

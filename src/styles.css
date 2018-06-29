@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+.col-lg-3{
+    padding-top: 90px;
+    padding-right: 50px;
+    
+}
+.col-lg-9{
+    padding-top: 90px;
+}
+.carousel-caption{
+    color: #FFC44C;
+    text-align: bottom;
+}
+.oneplus{
+    top: 200px;
+    left: 500px;
+}
+.lenovolap{
+    color:#5d05e9;
+    bottom: 20px;
+    left: 600px;
+}
+.nikoncam{
+    color: #5d05e9;
+    top: 230px;
+}
+.my-5{
+    padding-top: 80px;
+}
+.offers{
+    padding-top: 150px;
+    /* margin-top: 200px; */
+}

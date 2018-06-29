@@ -1,0 +1,44 @@
+
+    <!-- Navigation -->
+    
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="#"><img src="./assets/image/logo.png " width="70px" height="70px" style="position: relative; left: -40px">ATSG Electronics</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link"  [routerLink] = "['/Home']"  routerLinkActive="active-link">Home
+                <span class="sr-only">(current)</span>  
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" [routerLink] = "['/About']">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" [routerLink] = "['/Offers']">Offers Zone</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" [routerLink] = "['/Contact']">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+     
+    </nav>
+    <router-outlet>
+    </router-outlet>
+
+    
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright 2017 &copy; Sumit Gawas & Akshay Thakre </p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    
